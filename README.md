@@ -3,11 +3,11 @@
 
 
 <hr>
-<h4 align="center">Calculator! fully functional scientific calculator! <a href="https://github.com/iOS-Bootcamp-Week2" target="_blank">Calculator</a>.</h4>
+<h4 align="center">Calculator! fully functional scientific calculator! <a href="https://github.com/asimcanyagiz/iOS-Bootcamp-Week2" target="_blank">Calculator</a>.</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/iOS-Bootcamp-Week2">
-  <img src="https://img.shields.io/github/license/iOS-Bootcamp-Week2">
+  <img src="https://img.shields.io/github/commit-activity/y/asimcanyagiz/iOS-Bootcamp-Week2">
+  <img src="https://img.shields.io/github/license/asimcanyagiz/iOS-Bootcamp-Week2">
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/iOS-Bootcamp-Week2
+$ git clone https://github.com/asimcanyagiz/iOS-Bootcamp-Week2
 
 # Go into the repository
 $ cd calculator
@@ -49,7 +49,7 @@ $ cd calculator
 
 ## Download
 
-You can [download](https://github.com/iOS-Bootcamp-Week2) the latest installable version of Calculator for macOS and Linux.
+You can [download](https://github.com/asimcanyagiz/iOS-Bootcamp-Week2) the latest installable version of Calculator for macOS and Linux.
 
 ## Technologies Used
 
