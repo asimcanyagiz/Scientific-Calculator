@@ -58,13 +58,29 @@
 			children = (
 				ABFC51D728E89A4D009899D7 /* AppDelegate.swift */,
 				ABFC51D928E89A4D009899D7 /* SceneDelegate.swift */,
-				ABFC51DB28E89A4D009899D7 /* ViewController.swift */,
-				ABFC51DD28E89A4D009899D7 /* Main.storyboard */,
+				ABFC51EC28E89A7F009899D7 /* View */,
+				ABFC51EB28E89A5D009899D7 /* Controller */,
 				ABFC51E028E89A4E009899D7 /* Assets.xcassets */,
 				ABFC51E228E89A4E009899D7 /* LaunchScreen.storyboard */,
 				ABFC51E528E89A4E009899D7 /* Info.plist */,
 			);
 			path = "iOS-Bootcamp-Week2";
+			sourceTree = "<group>";
+		};
+		ABFC51EB28E89A5D009899D7 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				ABFC51DB28E89A4D009899D7 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		ABFC51EC28E89A7F009899D7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				ABFC51DD28E89A4D009899D7 /* Main.storyboard */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
