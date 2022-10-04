@@ -225,8 +225,6 @@ class ViewController: UIViewController {
         if calculationInputs[1] == "" {
             calculationInputs[1] = operation
             number = ""
-            print(calculationInputs[0])
-            print(calculationInputs[2])
             
         } else {
             resultOfOperation()
